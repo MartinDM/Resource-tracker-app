@@ -27,5 +27,4 @@ The company love your prototype, and would like to make a couple of extra reques
 * They would like the current asset list to remain between page reloads, but don't want to have any
   kind of backend for this system just yet.
 * They would also like to be able to undo the last delete action by pressing `Ctrl+Z`, in
-  case it was an accident.
-# asset-list
+  case it was an accident.# asset-list

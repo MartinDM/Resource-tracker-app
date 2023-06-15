@@ -1,0 +1,36 @@
+.app {
+
+    h4 {
+        margin-bottom: 6px;;
+    }
+
+    ul {
+        margin: 0;
+        padding: 0;
+    }
+
+    strong { 
+        padding-right: 4px;
+    }
+    
+    li {
+        list-style: none;
+        border-bottom: 1px solid white;
+        padding: 10px 0;
+    }
+
+    p { 
+        margin: 0 0 4px 0;
+    }
+
+    button {
+        padding: 10px;
+        display: flex;
+        align-items: center;
+        border-radius: 2px;
+        svg {
+            margin-left: 6px;
+        }
+    }
+
+}
