@@ -1,9 +1,8 @@
 # Resource Tracker task
 
-_Please return your solution as a zip file by email - do not publish it online. You don't need to include the node_modules folder._
+<img width="661" alt="image" src="https://github.com/MartinDM/asset-list/assets/7467069/af80d44b-4acd-49d1-a29d-c864a381bc82">
 
----
-
+## Rules
 A company desires a simple web interface for tracking a variety of assets, and would like you to
 build a simple prototype system.
 
