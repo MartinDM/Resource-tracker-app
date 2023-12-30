@@ -1,10 +1,14 @@
-# Resource Tracker task
+# Resource Tracker exercise
+
+__[View online](https://martin-asset-list.surge.sh/)__ 🚀
 
 <img width="661" alt="image" src="https://github.com/MartinDM/asset-list/assets/7467069/af80d44b-4acd-49d1-a29d-c864a381bc82">
 
-## Rules
-A company desires a simple web interface for tracking a variety of assets, and would like you to
-build a simple prototype system.
+### A fun CRUD-style coding exercise to some made-up business rules:
+
+## Rules ✏️
+
+A company wants a web interface for tracking a variety of assets, and would like you to build a simple system.
 
 Assets have the following attributes:
 * A required _Resource ID_, which is a number of up to 8 digits in length, and is unique to each asset;
@@ -14,16 +18,16 @@ Assets have the following attributes:
 The company would like the assets to be displayed in the order they were entered into the system,
 with the most recent at the top of the list.
 
-They would also like to be able to remove assets from the list.
+They want to be able to remove assets from the list.
 
-A very basic template has been provided to get you started. You can start the template by running
-`npm install` followed by `npm start`.
+## Extensions ✅
 
-## Extensions
+* Make the current asset list to persist between page reloads, but without a back-end system. Make it so!
+* Undo function for the last delete action by pressing `Ctrl+Z`, in case it was an accident!
 
-The company love your prototype, and would like to make a couple of extra requests if you have time:
+## Run locally
 
-* They would like the current asset list to remain between page reloads, but don't want to have any
-  kind of backend for this system just yet.
-* They would also like to be able to undo the last delete action by pressing `Ctrl+Z`, in
-  case it was an accident.# asset-list
+```
+npm i
+npm start
+```
